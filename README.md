@@ -13,7 +13,7 @@ $ ./crep "search string" "file.txt"
 
 For example:
 
-$ .\crep fire troubles_braids.txt
+$ ./crep fire troubles_braids.txt
 
 ![example_fire](example_fire.jpg?raw=true "Trouble's Braids")
 

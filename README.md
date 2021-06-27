@@ -9,7 +9,7 @@ $ gcc crep.c -o crep
 
 To run:
 
-$ .\crep "search string" "file.txt"
+$ ./crep "search string" "file.txt"
 
 For example:
 
@@ -19,6 +19,6 @@ $ .\crep fire troubles_braids.txt
 
 And crepping crep with crep:
 
-$ .\crep crep crep.c
+$ ./crep crep crep.c
 
 ![example_crep](example_crep.jpg?raw=true "Crep Itself")
